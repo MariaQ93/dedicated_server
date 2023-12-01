@@ -1,0 +1,11 @@
+/Users/mariaqin/Desktop/dedicated_server(1)/target/debug/deps/bevy_math-02ae6a93dc16b74d.rmeta: /Users/mariaqin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_math-0.11.3/src/lib.rs /Users/mariaqin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_math-0.11.3/src/cubic_splines.rs /Users/mariaqin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_math-0.11.3/src/ray.rs /Users/mariaqin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_math-0.11.3/src/rects/mod.rs /Users/mariaqin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_math-0.11.3/src/rects/irect.rs /Users/mariaqin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_math-0.11.3/src/rects/rect.rs /Users/mariaqin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_math-0.11.3/src/rects/urect.rs
+
+/Users/mariaqin/Desktop/dedicated_server(1)/target/debug/deps/bevy_math-02ae6a93dc16b74d.d: /Users/mariaqin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_math-0.11.3/src/lib.rs /Users/mariaqin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_math-0.11.3/src/cubic_splines.rs /Users/mariaqin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_math-0.11.3/src/ray.rs /Users/mariaqin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_math-0.11.3/src/rects/mod.rs /Users/mariaqin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_math-0.11.3/src/rects/irect.rs /Users/mariaqin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_math-0.11.3/src/rects/rect.rs /Users/mariaqin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_math-0.11.3/src/rects/urect.rs
+
+/Users/mariaqin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_math-0.11.3/src/lib.rs:
+/Users/mariaqin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_math-0.11.3/src/cubic_splines.rs:
+/Users/mariaqin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_math-0.11.3/src/ray.rs:
+/Users/mariaqin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_math-0.11.3/src/rects/mod.rs:
+/Users/mariaqin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_math-0.11.3/src/rects/irect.rs:
+/Users/mariaqin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_math-0.11.3/src/rects/rect.rs:
+/Users/mariaqin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_math-0.11.3/src/rects/urect.rs:
